@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cherubim777
-- 👀 I’m interested in programming, AI, blockchain technology
-- 🌱 I’m currently learning web-dev
+- 👀 I’m interested in programming, web techenologies, AI, blockchain technology
 - 📫 How to reach me cherubimtenth1@gmail.com
 
 <!---
